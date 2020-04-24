@@ -16,7 +16,6 @@
         "node-red-contrib-linux-network-stats": "0.1.2",
         "node-red-contrib-msg-router": "0.0.5",
         "node-red-contrib-msg-speed": "0.0.5",
-        "node-red-contrib-rdkafka": "0.2.2",
         "node-red-contrib-set-defaults": "0.9.1",
         "node-red-contrib-simple-gate": "0.2.4",
         "node-red-contrib-telegrambot": "5.5.2",
@@ -26,7 +25,8 @@
         "node-red-node-discovery": "0.0.21",
         "node-red-node-rbe": "0.2.5",
         "node-red-node-snmp": "0.0.20",
-        "node-red-node-swagger": "0.1.9"
+        "node-red-node-swagger": "0.1.9",
+        "node-red-contrib-rdkafka": "0.2.2"
     },
     "node-red": {
         "settings": {
