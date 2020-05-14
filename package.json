@@ -26,7 +26,8 @@
         "node-red-node-rbe": "0.2.5",
         "node-red-node-snmp": "0.0.20",
         "node-red-node-swagger": "0.1.9",
-        "node-red-contrib-rdkafka": "0.2.2"
+        "node-red-contrib-rdkafka": "0.2.2",
+        "node-red-contrib-simple-message-queue": "0.2.5"
     },
     "node-red": {
         "settings": {
